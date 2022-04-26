@@ -4,8 +4,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-xenia/fmri_lab/HEAD)
 
 ---
-title: Setup
----
 # Setting up the tutorial environment
 
 ## Binder
