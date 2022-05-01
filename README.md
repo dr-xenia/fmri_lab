@@ -13,7 +13,7 @@ Using Binder is the easiest and fastest way to get started with the workshop. Bi
 ### Setting up Binder
 
 
-Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/v2/gh/carpentries-incubator/SDC-BIDS-fMRI/gh-pages?urlpath=lab/tree/code)
+Click the link here to spin up the workshop environment: [Binder Workshop](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-xenia/fmri_lab/HEAD)
 You will see an interface that looks like the following:
 
 ![JupyterHub](./fig/jupyterhub.png)
